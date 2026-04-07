@@ -267,6 +267,25 @@
             margin-top: 40px;
         }
 
+        .btn-delete {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            padding: 4px 8px;
+            transition: transform 0.2s ease;
+            color: #ef4444;
+        }
+
+        .btn-delete:hover {
+            transform: scale(1.2);
+        }
+
+        .action-column {
+            text-align: center;
+            width: 80px;
+        }
+
         .totals-section h2 {
             font-size: 18px;
             margin-bottom: 25px;
@@ -426,6 +445,7 @@
                                     <th>Método de Pago</th>
                                     <th style="text-align: right;">Monto</th>
                                     <th style="text-align: center;">Sigma</th>
+                                    <th style="text-align: center;">Acciones</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -453,6 +473,12 @@
                                             {% else %}
                                                 <span class="sigma-no">✗</span>
                                             {% endif %}
+                                        </td>
+                                        <td class="action-column">
+                                            <form method="POST" action="{% url 'payments:delete_payment' payment.id %}" class="delete-form" style="display:inline;">
+                                                {% csrf_token %}
+                                                <button type="submit" class="btn-delete" title="Eliminar registro" onclick="return confirm('¿Está seguro de que desea eliminar este registro de pago?\n\nPaciente: {{ payment.patient_name }}\nMonto: ${{ payment.amount }}');">🗑️</button>
+                                            </form>
                                         </td>
                                     </tr>
                                 {% endfor %}

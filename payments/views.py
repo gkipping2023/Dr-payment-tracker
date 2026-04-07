@@ -1,4 +1,4 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from django.views.decorators.http import require_http_methods
 from django.db.models import Sum
 from decimal import Decimal
@@ -127,3 +127,10 @@ def index(request):
     }
 
     return render(request, 'payments/index.html', context)
+
+
+@require_http_methods(["POST"])
+def delete_payment(request, payment_id):
+    payment = get_object_or_404(PaymentRecord, pk=payment_id)
+    payment.delete()
+    return redirect('payments:index')
