@@ -5,7 +5,7 @@ Django settings for doctor_payments project.
 import os
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 # Secret key should be set via environment variable in production
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'django-insecure-doctor-payments-app-secret-key-for-dev')
