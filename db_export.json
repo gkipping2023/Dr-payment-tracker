@@ -1,0 +1,1036 @@
+[
+{
+  "model": "payments.paymentrecord",
+  "pk": 2,
+  "fields": {
+    "date": "2026-03-03",
+    "patient_name": "Miguel cedeño",
+    "payment_method": "clave",
+    "amount": "25.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 3,
+  "fields": {
+    "date": "2026-03-03",
+    "patient_name": "Marina ramos",
+    "payment_method": "clave",
+    "amount": "33.75",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 4,
+  "fields": {
+    "date": "2026-03-03",
+    "patient_name": "Osiris betacourt",
+    "payment_method": "clave",
+    "amount": "45.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 5,
+  "fields": {
+    "date": "2026-03-03",
+    "patient_name": "Allison mckensie",
+    "payment_method": "clave",
+    "amount": "35.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 6,
+  "fields": {
+    "date": "2026-03-12",
+    "patient_name": "Carolina",
+    "payment_method": "visa_mc",
+    "amount": "120.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 7,
+  "fields": {
+    "date": "2026-03-14",
+    "patient_name": "André ti watson",
+    "payment_method": "visa_mc",
+    "amount": "157.50",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 8,
+  "fields": {
+    "date": "2026-03-14",
+    "patient_name": "Jake tenorio",
+    "payment_method": "visa_mc",
+    "amount": "25.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 9,
+  "fields": {
+    "date": "2026-03-14",
+    "patient_name": "Gaspar gonzales",
+    "payment_method": "clave",
+    "amount": "207.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 10,
+  "fields": {
+    "date": "2026-03-14",
+    "patient_name": "Giselaine gonzales",
+    "payment_method": "visa_mc",
+    "amount": "55.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 11,
+  "fields": {
+    "date": "2026-03-14",
+    "patient_name": "Abel Ibarra",
+    "payment_method": "visa_mc",
+    "amount": "34.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 12,
+  "fields": {
+    "date": "2026-03-14",
+    "patient_name": "André ti watson",
+    "payment_method": "visa_mc",
+    "amount": "157.50",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 13,
+  "fields": {
+    "date": "2026-03-17",
+    "patient_name": "Alexis de la rosa",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 14,
+  "fields": {
+    "date": "2026-03-02",
+    "patient_name": "Sara Michelle",
+    "payment_method": "clave",
+    "amount": "35.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 17,
+  "fields": {
+    "date": "2026-04-03",
+    "patient_name": "Brita",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 18,
+  "fields": {
+    "date": "2026-04-09",
+    "patient_name": "Nelly flores",
+    "payment_method": "visa_mc",
+    "amount": "129.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 20,
+  "fields": {
+    "date": "2026-04-17",
+    "patient_name": "Lourdes",
+    "payment_method": "visa_mc",
+    "amount": "40.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 21,
+  "fields": {
+    "date": "2026-04-09",
+    "patient_name": "Syhephaie herrera",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 22,
+  "fields": {
+    "date": "2026-04-17",
+    "patient_name": "Maribel Roa",
+    "payment_method": "sigma",
+    "amount": "70.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 23,
+  "fields": {
+    "date": "2026-04-15",
+    "patient_name": "Moisés Ortega",
+    "payment_method": "sigma",
+    "amount": "60.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 24,
+  "fields": {
+    "date": "2026-04-09",
+    "patient_name": "Brita",
+    "payment_method": "sigma",
+    "amount": "60.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 25,
+  "fields": {
+    "date": "2026-04-18",
+    "patient_name": "Lisbeth Bustamante",
+    "payment_method": "visa_mc",
+    "amount": "892.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 26,
+  "fields": {
+    "date": "2026-05-06",
+    "patient_name": "Florentina polanco",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 27,
+  "fields": {
+    "date": "2026-05-08",
+    "patient_name": "Crees Vergara",
+    "payment_method": "visa_mc",
+    "amount": "68.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 28,
+  "fields": {
+    "date": "2026-05-06",
+    "patient_name": "Berta",
+    "payment_method": "visa_mc",
+    "amount": "46.75",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 29,
+  "fields": {
+    "date": "2026-05-08",
+    "patient_name": "Juan lee",
+    "payment_method": "sigma",
+    "amount": "50.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 30,
+  "fields": {
+    "date": "2026-05-09",
+    "patient_name": "Vielka flores",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 31,
+  "fields": {
+    "date": "2026-05-09",
+    "patient_name": "Nitzia herrera",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 32,
+  "fields": {
+    "date": "2026-05-12",
+    "patient_name": "Osiris bethancourt",
+    "payment_method": "visa_mc",
+    "amount": "68.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 33,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "María Gálvez",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 34,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "David Sánchez",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 35,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "Marcos Sánchez",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 36,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "Nacksrys perez",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 37,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "Paul manson",
+    "payment_method": "visa_mc",
+    "amount": "40.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 38,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "Eric martes",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 39,
+  "fields": {
+    "date": "2026-05-16",
+    "patient_name": "Javier calderon",
+    "payment_method": "visa_mc",
+    "amount": "68.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 40,
+  "fields": {
+    "date": "2026-05-19",
+    "patient_name": "José montes",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 41,
+  "fields": {
+    "date": "2026-05-19",
+    "patient_name": "Francisco Ramírez",
+    "payment_method": "clave",
+    "amount": "40.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 42,
+  "fields": {
+    "date": "2026-05-19",
+    "patient_name": "Dar retally",
+    "payment_method": "clave",
+    "amount": "40.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 43,
+  "fields": {
+    "date": "2026-05-21",
+    "patient_name": "Debora delgado",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 44,
+  "fields": {
+    "date": "2026-05-21",
+    "patient_name": "Elmer cedeño",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 45,
+  "fields": {
+    "date": "2026-05-21",
+    "patient_name": "Sara cedeño",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 46,
+  "fields": {
+    "date": "2026-05-21",
+    "patient_name": "Gabriel",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 47,
+  "fields": {
+    "date": "2026-05-23",
+    "patient_name": "Santiago",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 48,
+  "fields": {
+    "date": "2026-05-23",
+    "patient_name": "Sara",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 49,
+  "fields": {
+    "date": "2026-05-23",
+    "patient_name": "Santiago",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 50,
+  "fields": {
+    "date": "2026-05-23",
+    "patient_name": "Sara",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 51,
+  "fields": {
+    "date": "2026-05-23",
+    "patient_name": "Luis",
+    "payment_method": "clave",
+    "amount": "68.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 52,
+  "fields": {
+    "date": "2026-05-28",
+    "patient_name": "Lucy",
+    "payment_method": "visa_mc",
+    "amount": "464.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 53,
+  "fields": {
+    "date": "2026-06-02",
+    "patient_name": "María Gálvez",
+    "payment_method": "visa_mc",
+    "amount": "200.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 54,
+  "fields": {
+    "date": "2026-06-02",
+    "patient_name": "Mia",
+    "payment_method": "sigma",
+    "amount": "55.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 55,
+  "fields": {
+    "date": "2026-06-02",
+    "patient_name": "Allesa",
+    "payment_method": "sigma",
+    "amount": "55.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 56,
+  "fields": {
+    "date": "2026-06-02",
+    "patient_name": "Jennifer",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 57,
+  "fields": {
+    "date": "2026-06-05",
+    "patient_name": "Esmeralda",
+    "payment_method": "sigma",
+    "amount": "77.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 58,
+  "fields": {
+    "date": "2026-06-06",
+    "patient_name": "Mauricio Robinson",
+    "payment_method": "visa_mc",
+    "amount": "55.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 59,
+  "fields": {
+    "date": "2026-06-06",
+    "patient_name": "Iván",
+    "payment_method": "visa_mc",
+    "amount": "110.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 60,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Iván",
+    "payment_method": "visa_mc",
+    "amount": "55.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 61,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Gladys",
+    "payment_method": "sigma",
+    "amount": "55.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 62,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Mauricio",
+    "payment_method": "visa_mc",
+    "amount": "68.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 63,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Nacksrys",
+    "payment_method": "visa_mc",
+    "amount": "84.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 64,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Sara",
+    "payment_method": "visa_mc",
+    "amount": "343.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 65,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Joel Saldaña",
+    "payment_method": "sigma",
+    "amount": "60.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 66,
+  "fields": {
+    "date": "2026-06-13",
+    "patient_name": "Dana",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 67,
+  "fields": {
+    "date": "2026-06-11",
+    "patient_name": "María Gálvez",
+    "payment_method": "visa_mc",
+    "amount": "143.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 68,
+  "fields": {
+    "date": "2026-06-11",
+    "patient_name": "Tayna",
+    "payment_method": "sigma",
+    "amount": "50.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 69,
+  "fields": {
+    "date": "2026-06-11",
+    "patient_name": "Ernesto",
+    "payment_method": "sigma",
+    "amount": "70.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 70,
+  "fields": {
+    "date": "2026-06-11",
+    "patient_name": "Miguel",
+    "payment_method": "clave",
+    "amount": "30.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 71,
+  "fields": {
+    "date": "2026-06-19",
+    "patient_name": "Esmeralda",
+    "payment_method": "sigma",
+    "amount": "70.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 72,
+  "fields": {
+    "date": "2026-06-20",
+    "patient_name": "Usted",
+    "payment_method": "sigma",
+    "amount": "55.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 73,
+  "fields": {
+    "date": "2026-06-20",
+    "patient_name": "Yarixell",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 74,
+  "fields": {
+    "date": "2026-06-20",
+    "patient_name": "Argelia",
+    "payment_method": "visa_mc",
+    "amount": "84.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 75,
+  "fields": {
+    "date": "2026-06-20",
+    "patient_name": "Nery",
+    "payment_method": "visa_mc",
+    "amount": "45.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 76,
+  "fields": {
+    "date": "2026-06-22",
+    "patient_name": "María",
+    "payment_method": "visa_mc",
+    "amount": "60.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 77,
+  "fields": {
+    "date": "2026-06-23",
+    "patient_name": "Argelia",
+    "payment_method": "visa_mc",
+    "amount": "84.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 78,
+  "fields": {
+    "date": "2026-06-24",
+    "patient_name": "Gladys",
+    "payment_method": "sigma",
+    "amount": "60.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 79,
+  "fields": {
+    "date": "2026-06-25",
+    "patient_name": "Irma",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 80,
+  "fields": {
+    "date": "2026-06-25",
+    "patient_name": "Ovidio",
+    "payment_method": "sigma",
+    "amount": "80.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 81,
+  "fields": {
+    "date": "2026-07-01",
+    "patient_name": "María",
+    "payment_method": "visa_mc",
+    "amount": "68.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 82,
+  "fields": {
+    "date": "2026-07-03",
+    "patient_name": "Gloria",
+    "payment_method": "clave",
+    "amount": "55.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 83,
+  "fields": {
+    "date": "2026-07-04",
+    "patient_name": "Osiris",
+    "payment_method": "visa_mc",
+    "amount": "46.74",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 84,
+  "fields": {
+    "date": "2026-07-04",
+    "patient_name": "Allison",
+    "payment_method": "visa_mc",
+    "amount": "35.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 85,
+  "fields": {
+    "date": "2026-07-04",
+    "patient_name": "Nitzia",
+    "payment_method": "sigma",
+    "amount": "70.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 86,
+  "fields": {
+    "date": "2026-07-04",
+    "patient_name": "Ianilka",
+    "payment_method": "yappy",
+    "amount": "40.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 87,
+  "fields": {
+    "date": "2026-07-06",
+    "patient_name": "Javier",
+    "payment_method": "sigma",
+    "amount": "55.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 88,
+  "fields": {
+    "date": "2026-07-06",
+    "patient_name": "José",
+    "payment_method": "visa_mc",
+    "amount": "34.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 89,
+  "fields": {
+    "date": "2026-07-11",
+    "patient_name": "Luis",
+    "payment_method": "sigma",
+    "amount": "55.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 90,
+  "fields": {
+    "date": "2026-07-16",
+    "patient_name": "Carolina",
+    "payment_method": "yappy",
+    "amount": "72.25",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 91,
+  "fields": {
+    "date": "2026-07-17",
+    "patient_name": "Ivette",
+    "payment_method": "visa_mc",
+    "amount": "46.75",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 92,
+  "fields": {
+    "date": "2026-07-17",
+    "patient_name": "Skyler",
+    "payment_method": "visa_mc",
+    "amount": "35.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 93,
+  "fields": {
+    "date": "2026-07-18",
+    "patient_name": "Nelly",
+    "payment_method": "visa_mc",
+    "amount": "45.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 94,
+  "fields": {
+    "date": "2026-07-18",
+    "patient_name": "Ambilieth",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 95,
+  "fields": {
+    "date": "2026-07-18",
+    "patient_name": "Aurora",
+    "payment_method": "clave",
+    "amount": "35.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 97,
+  "fields": {
+    "date": "2026-07-20",
+    "patient_name": "Daniela",
+    "payment_method": "sigma",
+    "amount": "45.00",
+    "used_sigma": true
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 101,
+  "fields": {
+    "date": "2026-07-20",
+    "patient_name": "Cynthia",
+    "payment_method": "clave",
+    "amount": "84.00",
+    "used_sigma": false
+  }
+},
+{
+  "model": "payments.paymentrecord",
+  "pk": 102,
+  "fields": {
+    "date": "2026-07-21",
+    "patient_name": "Francisco",
+    "payment_method": "visa_mc",
+    "amount": "105.00",
+    "used_sigma": false
+  }
+}
+]
